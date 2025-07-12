@@ -34,8 +34,11 @@ This project performs **exploratory data analysis (EDA)** on the Udemy course da
 - Visualize the number of courses published each year using `Seaborn`'s `countplot`
 - Customize the visual style using `Matplotlib` for better readability
 
+
 ## 📊 10 Most Popular courses as per Number of Subs
 
+![image_alt](<img width="1212" height="533" alt="image" src="https://github.com/user-attachments/assets/11c85c38-9380-40f8-8227-5e58359541f6" />
+)
 
 
 
