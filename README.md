@@ -16,15 +16,6 @@ This project performs **exploratory data analysis (EDA)** on the Udemy course da
 - **Jupyter Notebook** – Interactive environment
 - ------
 
-## 📁 Project Structure
-
-├── Project6.ipynb # Jupyter notebook with all the code and analysis
-├── udemy_courses.csv # Udemy dataset used for the project
-├── sample_plot.png # Optional: chart preview image
-├── requirements.txt # List of Python libraries used
-└── README.md # Project overview and instructions
-
--------
 
 ## 📌 Key Objectives
 
