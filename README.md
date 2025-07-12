@@ -37,8 +37,9 @@ This project performs **exploratory data analysis (EDA)** on the Udemy course da
 
 ## 📊 10 Most Popular courses as per Number of Subs
 
-![image_alt](<img width="1212" height="533" alt="image" src="https://github.com/user-attachments/assets/11c85c38-9380-40f8-8227-5e58359541f6" />
-)
+![Sample Countplot](https://github.com/Danny20111/Udemy-Courses-EDA/blob/6abe12ea49b096fb4188a28c1f90b09b4e61e916/Screenshot%202025-07-12%20193829.png)
+
+Here this plot shows top 10 Most popular courses as per number of subscribers
 
 
 
